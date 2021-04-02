@@ -1,5 +1,5 @@
 @import "_normalize";
-
+@import "_media";
 .header {
   width: 1920px;
   background-color: #525254;
@@ -391,7 +391,7 @@
   &__block {
     width: 439px;
     height: 105px;
-    padding: 13px 51px 317px 30px;
+    padding: 13px 51px 317px 0;
   }
   span {
     font-family: Open Sans;
@@ -466,7 +466,7 @@
     text-transform: uppercase;
   }
   &__menu {
-    width: 600px;
+    width: 634px;
     margin: 0 auto;
     ul {
       display: flex;
@@ -481,7 +481,7 @@
       }
       li::after {
         content: "/";
-        padding-left: 13px;
+        padding-left: 17px;
       }
       li:last-child::after {
         content: "";
@@ -494,6 +494,7 @@
   height: 50px;
   background-color: #404040;
   &__text {
+    width: 1290px;
     margin-top: 1px;
     font-family: Open Sans;
     font-style: normal;

@@ -1,0 +1,359 @@
+@media screen and (max-width: 1439px) {
+  .header {
+    max-width: 1439px;
+    &__wrapper {
+      width: 1290px;
+    }
+  }
+  .menu {
+    max-width: 1439px;
+    &__wrapper {
+      width: 1290px;
+    }
+  }
+  .blocks {
+    max-width: 1439px;
+    &__bg {
+      max-width: 719.5px;
+    }
+    &__img {
+      img {
+        max-width: 719.5px;
+        min-height: 650px;
+      }
+    }
+    &__title {
+      position: relative;
+      right: 200px;
+    }
+    hr {
+      position: relative;
+      right: 200px;
+    }
+    &__text {
+      position: relative;
+      right: 200px;
+    }
+  }
+  .blocks2 {
+    max-width: 1439px;
+    &__img {
+      img {
+        max-width: 719.5px;
+        min-height: 650px;
+      }
+    }
+    &__bg {
+      max-width: 719.5px;
+    }
+  }
+  .blocks3 {
+    max-width: 1439px;
+    &__bg {
+      max-width: 721.5px;
+    }
+    &__img {
+      img {
+        max-width: 719.5px;
+        min-height: 650px;
+      }
+    }
+    &__title {
+      position: relative;
+      right: 200px;
+    }
+    hr {
+      position: relative;
+      right: 200px;
+    }
+    &__text {
+      position: relative;
+      right: 200px;
+    }
+  }
+  .blocks4 {
+    max-width: 1439px;
+    &__img {
+      img {
+        max-width: 719.5px;
+        min-height: 650px;
+      }
+    }
+    &__bg {
+      max-width: 719.5px;
+    }
+  }
+  .popular {
+    max-width: 1439px;
+  }
+  .maps {
+    &__bg {
+    }
+    &__block {
+      padding: 13px 51px 317px 0;
+      iframe {
+        max-width: 1439px;
+      }
+    }
+  }
+  .footer-menu {
+    max-width: 1439px;
+    ul {
+      position: relative;
+      left: 36%;
+    }
+    &__block {
+    }
+  }
+  .simply {
+    max-width: 1439px;
+    &__text {
+      max-width: 403px;
+    }
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .header {
+    max-width: 1023px;
+    .header__wrapper {
+      width: 1023px;
+    }
+    .header__none {
+      position: relative;
+      left: -5%;
+    }
+    .header__img {
+      position: relative;
+      left: 73.6%;
+    }
+    .header__contacts {
+      position: relative;
+      left: 2%;
+    }
+    .header__link {
+      position: relative;
+      left: 2%;
+    }
+  }
+  .menu {
+    max-width: 1023px;
+
+    &__wrapper {
+      width: 1023px;
+    }
+    &__item {
+      width: 580px;
+    }
+    .menu__img {
+      margin-left: 17px;
+    }
+    .menu__ul {
+      margin-right: 14px;
+      li {
+        font-size: 15px;
+      }
+    }
+    .menu__tel {
+      a {
+        font-size: 24px;
+        margin-right: 26px;
+        margin-top: -10px;
+      }
+      span {
+        position: relative;
+        left: 22px;
+      }
+    }
+  }
+  .blocks {
+    max-width: 1023px;
+    &__bg {
+      max-width: 511.5px;
+      max-height: 463px;
+    }
+    .blocks__title {
+      width: 364px;
+      font-size: 31px;
+      margin-left: 61%;
+    }
+    hr {
+      position: relative;
+      right: 69%;
+      max-width: 338.3px;
+    }
+    .blocks__text {
+      margin: 39px 96px 295px 157px;
+      font-size: 16px;
+      line-height: 23px;
+    }
+    .blocks__img {
+      img {
+        width: 511.5px;
+        min-height: 463px;
+      }
+    }
+  }
+  .blocks2 {
+    max-width: 1023px;
+    height: 463px;
+    .blocks2__img {
+      width: 511.5px;
+      min-height: 463px;
+      img {
+        width: 511.5px;
+        min-height: 463px;
+        height: 0%;
+      }
+    }
+    .blocks2__bg {
+      width: 511.5px;
+      height: 463px;
+    }
+    .blocks2__title {
+      margin: 127px 710px 4px 40px;
+      font-size: 31px;
+    }
+    hr {
+      position: relative;
+      right: 11%;
+      max-width: 101px;
+    }
+    .blocks2__text {
+      margin: 40px 320px 328px 40px;
+      width: 437px;
+      font-size: 16px;
+    }
+  }
+  .blocks3 {
+    max-width: 1023px;
+    height: 463px;
+    .blocks3__bg {
+      max-width: 511.5px;
+      height: 463px;
+    }
+    .blocks3__title {
+      margin: 115px 95px 11px 426px;
+      font-size: 31px;
+    }
+    .blocks3__text {
+      margin: 0px 95px 309px 217px;
+      width: 448px;
+    }
+    .blocks3__img {
+      img {
+        max-width: 511.5px;
+        min-height: 463px;
+        height: 0%;
+      }
+    }
+    hr {
+      position: relative;
+      right: 76%;
+      max-width: 240px;
+    }
+  }
+  .blocks4 {
+    max-width: 1023px;
+    height: 463px;
+    .blocks4__img {
+      max-width: 511.5px;
+      min-height: 463px;
+      height: 0%;
+      img {
+        max-width: 511.5px;
+        min-height: 463px;
+        height: 0%;
+      }
+    }
+    .blocks4__bg {
+      max-width: 511.5px;
+      min-height: 463px;
+      height: 0%;
+    }
+    .blocks4__title {
+      margin: 119px 470px 4px 40px;
+      font-size: 31px;
+    }
+    hr {
+      position: relative;
+      right: 10.7%;
+    }
+    .blocks4__text {
+      margin: 0px 345px 309px 40px;
+      font-size: 16px;
+      width: 452px;
+    }
+  }
+  .popular {
+    max-width: 1023px;
+    max-height: 500px;
+    .popular__wrapper {
+      max-width: 1023px;
+    }
+    .popular__block {
+      width: 200px;
+      height: 309.01px;
+    }
+    .popular__img {
+      img {
+        max-width: 180px;
+      }
+    }
+    .popular__text {
+      width: 180px;
+    }
+    .popular__button {
+      position: relative;
+      left: -1px;
+      width: 180px;
+      font-size: 15px;
+    }
+  }
+  .maps {
+    max-width: 1023px;
+    .maps__block {
+      width: 161px;
+      iframe {
+        width: 1023px;
+      }
+    }
+    .maps__bg {
+      width: 325px;
+      height: 245px;
+    }
+    .maps__tel {
+      span {
+        padding-left: 10px;
+      }
+    }
+    .maps__email {
+      span {
+        padding-left: 10px;
+      }
+    }
+    .maps__adress {
+      span {
+        padding-left: 10px;
+      }
+    }
+  }
+  .footer-menu {
+    max-width: 1023px;
+    ul {
+      position: relative;
+      left: 19%;
+    }
+    .footer-menu__block {
+      position: relative;
+      left: 45px;
+    }
+  }
+  .simply {
+    max-width: 1023px;
+    .simply__text {
+      position: relative;
+      left: 339px;
+    }
+  }
+}
